@@ -1,8 +1,5 @@
-module cheddartv/go-utils
+module github.com/cheddartv/go-utils
 
 go 1.12
 
-require (
-	github.com/sirupsen/logrus v1.4.2
-	github.com/stretchr/testify v1.2.2
-)
+require github.com/stretchr/testify v1.4.0
