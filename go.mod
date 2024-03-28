@@ -1,4 +1,4 @@
-module github.com/cheddartv/go-utils
+module github.com/SMGDevelopment/go-utils
 
 go 1.12
 
